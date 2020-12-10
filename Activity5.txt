@@ -1,3 +1,4 @@
 I am Lourens van der Merwe
 I completed Activity 1 - 4
 Marcus Maree made changes to this text file. 
+This is the line added by Marcus for Activity 9.
