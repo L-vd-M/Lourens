@@ -1,4 +1,8 @@
 I am Lourens van der Merwe
 I completed Activity 1 - 4
 Marcus Maree made changes to this text file. 
+<<<<<<< HEAD
 Data test to force a conflict.
+=======
+This is the line added by Marcus for Activity 9.
+>>>>>>> 8309879b41c2b3db11b937d398eda679e12e2069
